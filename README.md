@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a **Software Developer** with a Bachelor Degree in Computer Science from the University of Camerino, specializing in **Full-Stack Development** and system architecture.<br><br>* 🧱 **Architecture & Quality:** I focus on building maintainable software using **Layered Architecture**, **SOLID principles**, and proven **Design Patterns**.<br>* ⚙️ **Stack & Engineering:** Proficient in **C# / .NET Core**, **TypeScript (NestJS, Angular)**, **Java (Spring Boot)**, and **Docker**.<br>* 🔌 **Hardware & Hardware-Software Integration:** Hands-on experience developing low-level integrations (serial/Ethernet communication, Android POS terminals, and automated testing tools).<br>* 📦 **Current Role:** Currently working as a **Warehouse Associate at Amazon**, applying high-efficiency logistics culture to my daily work ethic while constantly evolving my engineering portfolio.<br>
-
+I am a **Software Developer** with a Bachelor Degree in Computer Science from the University of Camerino, specializing in **Full-Stack Development** and system architecture.<br><br>* 🧱 **Architecture & Design:** I focus on building maintainable software using **UML modeling**, **Layered Architecture**, **SOLID principles**, and proven **Design Patterns**.<br>* ⚙️ **Stack & Engineering:** Proficient in **C# / .NET Core**, **TypeScript (NestJS, Angular)**, **Java**, and **Docker**.<br>* 🔌 **Hardware & Hardware-Software Integration:** Hands-on experience developing low-level integrations (serial/Ethernet communication, Android POS terminals, and automated testing tools).<br>* 📦 **Current Role:** Currently working as a **Warehouse Associate at Amazon**, applying high-efficiency logistics culture to my daily work ethic while constantly evolving my engineering portfolio.<br><br> 💡 *I am actively seeking Software Development and Engineering opportunities where I can apply my skills full-time and grow as a professional developer.* <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BasilElsaid) 
@@ -12,7 +11,7 @@ I am a **Software Developer** with a Bachelor Degree in Computer Science from th
 ![](https://streak-stats.demolab.com/?user=BasilElsaid&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=BasilElsaid&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
